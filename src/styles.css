@@ -1,0 +1,7 @@
+.App {
+  font: italic bold 18px/30px Georgia, serif;
+  text-align: center;
+  p.a {
+    font: 15px arial, sans-serif;
+  }
+}
